@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SumantKhalate</h1>
-<h3 align="center">A passionate electronics engineer from India who has always loved electronics and has built several projects over the last decade and continues to do so in the interim</h3>
+<h1 align="center">Hi 👋, I'm Sumant Khalate</h1>
+<h3 align="center">I’m a professional Instrumentation engineer with a passion for embedded systems, free software, and machine learning. I’m also an amateur photographer, and a mechanic.</h3>
 
 - 🔭 I’m currently working on **RPI UPS HAT**
 
